@@ -59,6 +59,11 @@ Die Daten der Zeitmessung sollen gemeinsam mit den Wetterdaten ueber eine REST S
 
 Die Schnittstelle soll mit einer einfachen Applikation getestet werden. Dabei sollen die Daten mit Hilfe von HTML und JQuery "konsumiert" und in einer Tabelle dargestellt werden.
 
+## Demo Applikation
+
+*   Starten der Demo Applikation
+    `gradle clean bootRun`
+    
 ## Aufbau der Applikation
 
 *   Daten-Generierung bei der Zeitmessungsanlage (inkl. Wetterdaten)

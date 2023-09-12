@@ -9,8 +9,8 @@ Ein Zeitmessungsstandort (Timing Station, TSx) vom Vienna City Marathon erfasst 
 *   Java Programmierkenntnisse
 *   Verwendung von Gradle und Git
 *   Grundlagen Dezentrale Systeme
-*   Grundlagen XML (siehe [T7.3.4 Dokumentformat XML](https://elearning.tgm.ac.at/mod/resource/view.php?id=75247&redirect=1))
-*   Grundlagen JSON & REST (siehe [T7.3.5 Dokumentformat JSON / REST Architektur](https://elearning.tgm.ac.at/mod/resource/view.php?id=75246&redirect=1))
+*   Grundlagen XML (siehe [T7.3.4 Dokumentformat XML](doc/dezsys_midengineering_T7.3.4_documentformats_xml.pdf))
+*   Grundlagen JSON & REST (siehe [T7.3.5 Dokumentformat JSON / REST Architektur](doc/dezsys_midengineering_T7.3.5_documentformats_rest_json.pdf))
 
 ## Daten einer Zeitmessungsanlage/Timing Station (Beispiel)
 
@@ -78,10 +78,10 @@ Die Schnittstelle soll mit einer einfachen Applikation getestet werden. Dabei so
 ## Dokumente und Links
 
 * Architektur - Timing Stations and Section Parks
-[marathon_map.pdf](marathon_map.pdf)
+[marathon_map.pdf](doc/marathon_map.pdf)
 
 * XML Daten - Timing Station (Example)
-[timestation.xml](timestation.xml)
+[timestation.xml](doc/timestation.xml)
 
 * Spring Boot
 [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)

@@ -81,7 +81,7 @@ Die Schnittstelle soll mit einer einfachen Applikation getestet werden. Dabei so
 [marathon_map.pdf](doc/marathon_map.pdf)
 
 * XML Daten - Timing Station (Example)
-[timestation.xml](doc/timestation.xml)
+[timestation.xml](doc/timingstation.xml)
 
 * Spring Boot
 [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
